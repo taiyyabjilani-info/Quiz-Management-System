@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Quiz Management System",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "QuizManagementSystem"
+        }
+    ]
+}
